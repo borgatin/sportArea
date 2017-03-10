@@ -5,17 +5,17 @@
     <parent>
         <groupId>ru.avborg</groupId>
         <artifactId>sportArea</artifactId>
-        <version>0.4-SNAPSHOT</version>
+        <version>0.4</version>
     </parent>
 
     <artifactId>second-submodule</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.4</version>
 
     <dependencies>
         <dependency>
             <groupId>ru.avborg</groupId>
             <artifactId>first-submodule</artifactId>
-            <version>0.4-SNAPSHOT</version>
+            <version>0.4</version>
         </dependency>
     </dependencies>
 </project>
