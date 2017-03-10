@@ -5,7 +5,7 @@
     <groupId>ru.avborg</groupId>
     <artifactId>sportArea</artifactId>
     <packaging>pom</packaging>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.3</version>
 
 
     <modules>
@@ -14,7 +14,7 @@
     </modules>
 
     <scm>
-        <developerConnection>https://github.com/borgatin/sportArea.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/borgatin/sportArea.git</developerConnection>
     </scm>
 
     <build>
