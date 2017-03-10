@@ -5,11 +5,11 @@
     <parent>
         <groupId>ru.avborg</groupId>
         <artifactId>sportArea</artifactId>
-        <version>0.4</version>
+        <version>0.5-SNAPSHOT</version>
     </parent>
 
     <artifactId>first-submodule</artifactId>
-    <version>0.4</version>
+    <version>0.5-SNAPSHOT</version>
 
     
 </project>
